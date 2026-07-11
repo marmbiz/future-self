@@ -1,0 +1,14 @@
+{
+  "name": "future-self",
+  "owner": {
+    "name": "Martin Möller",
+    "url": "https://martin-moeller.biz"
+  },
+  "plugins": [
+    {
+      "name": "future-self",
+      "source": "./",
+      "description": "The one question that stops most bad decisions - and a five-stage exercise for when the answer dodges. Decision coherence, not decision advice."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "future-self",
+  "description": "Decision-coherence exercise for personally consequential decisions. Starts with 'Will my future self thank me for this?' - if the answer dodges, runs five stages: Strip-Down Test, Burden Ledger, Two Scenes, No-Defense Test, Kill Criteria. Examines the decider, not the plan. Never recommends.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Martin Möller",
+    "url": "https://martin-moeller.biz"
+  },
+  "homepage": "https://github.com/marmbiz/future-self",
+  "repository": "https://github.com/marmbiz/future-self",
+  "license": "MIT",
+  "keywords": ["decision-making", "reflection", "coaching", "kill-criteria", "future-self"]
+}
