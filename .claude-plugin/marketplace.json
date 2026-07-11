@@ -1,5 +1,6 @@
 {
   "name": "future-self",
+  "description": "Marketplace for the future-self plugin: a decision-coherence exercise that separates impulse from coherence on personally consequential decisions.",
   "owner": {
     "name": "Martin Möller",
     "url": "https://martin-moeller.biz"
